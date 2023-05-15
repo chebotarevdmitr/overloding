@@ -7,6 +7,7 @@ double sum(double a,double b);
 float sum(float a,float b, float c);
 int main() {
 	
+	cout<<sum (3,4)<<endl;
 	
 	system("pause>0");
 }
